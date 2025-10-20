@@ -22,9 +22,9 @@ I enjoy end-to-end problem solving — from cleaning and transforming raw data, 
 ##  Selected Projects  
 
 ### [EcoCharge – EV Charging Optimization System](https://github.com/Dtumuhairwe/EcoCharge)  
-Designed a data pipeline using **Python, SQL, and Spark** to process IoT-based EV charging data.  
-Applied **predictive modeling** to forecast energy demand and improve station efficiency.  
-Built **Power BI** dashboards to visualize usage, performance, and sustainability metrics.  
+Designed a **conceptual data pipeline** using Python, SQL, and Spark concepts to simulate how IoT-based EV charging data could be processed and analyzed.  
+Outlined steps for predictive modeling to forecast energy demand and improve station efficiency.  
+Planned Power BI dashboard concepts to visualize usage, performance, and sustainability metrics.  
 
 ###  [Student Performance Visualization](https://github.com/Dtumuhairwe/student-performance-visualization)  
 Created an interactive **Plotly Dash** app to examine relationships between demographics and academic performance.  
