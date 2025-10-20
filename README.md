@@ -19,20 +19,24 @@ I enjoy end-to-end problem solving — from cleaning and transforming raw data, 
 
 ---
 
-##  Selected Projects  
+## 🧠 Selected Projects  
 
 ### [EcoCharge – EV Charging Optimization System](https://github.com/Dtumuhairwe/EcoCharge)  
 Designed a **conceptual data pipeline** using Python, SQL, and Spark concepts to simulate how IoT-based EV charging data could be processed and analyzed.  
 Outlined steps for predictive modeling to forecast energy demand and improve station efficiency.  
-Planned Power BI dashboard concepts to visualize usage, performance, and sustainability metrics.  
+Planned **Power BI** dashboard concepts to visualize usage, performance, and sustainability metrics.  
 
-###  [Student Performance Visualization](https://github.com/Dtumuhairwe/student-performance-visualization)  
+---
+
+### [Student Performance Visualization](https://github.com/Dtumuhairwe/student-performance-visualization)  
 Created an interactive **Plotly Dash** app to examine relationships between demographics and academic performance.  
-Used exploratory analysis and visualization to surface trends influencing outcomes.  
+Used **exploratory data analysis (EDA)** and visualization to surface trends influencing outcomes.  
 
-###  [Diabetes Classification Model (Academic)]()  
+---
+
+### [Diabetes Classification Model (Academic)]()  
 Developed a **logistic regression** model to predict diabetes outcomes on an imbalanced dataset.  
-Evaluated with precision, recall, and ROC-AUC; experimented with **SMOTE** to address class imbalance.  
+Evaluated model performance using **precision**, **recall**, and **ROC-AUC**, and applied **SMOTE** to address class imbalance.  
 
 ---
 
