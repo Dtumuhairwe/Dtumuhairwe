@@ -1,51 +1,48 @@
-# 👋 Hi, I'm Doreen Tumuhairwe  
+# 👋 Hi, I'm Doreen Tumuhairwe
 
-**Graduate Student in Data Science** at the **University of the Pacific (Stockton, CA)**  
+**Graduate Student in Data Science** at the **University of the Pacific (Stockton, CA)**
 Based in **San Leandro, California**
 
-I explore how data reveals patterns, supports decisions, and improves real-world systems.  
-My work combines statistical modeling, machine learning, and visualization to build reliable, interpretable solutions.
-
-I enjoy end-to-end problem solving — from cleaning and transforming raw data, to modeling patterns, and communicating insights with clear visuals.
+I build end-to-end data systems — from pipelines and databases to machine learning models and interactive dashboards. My work sits at the intersection of data engineering and analytics.
 
 ---
 
-##  Technical Skills  
+## 🛠 Technical Skills
 
-**Languages:** Python, R, SQL, Stata, MATLAB  
-**Libraries & Tools:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Plotly, Tableau, Power BI  
-**Data Systems:** Hadoop, Spark  
-**Core Expertise:** Data Preparation · Predictive Modeling · Visualization · Statistical Inference  
-
----
-
-## 🧠 Selected Projects  
-
-### [EcoCharge – EV Charging Optimization System](https://github.com/Dtumuhairwe/EcoCharge)  
-Designed a **conceptual data pipeline** using Python, SQL, and Spark concepts to simulate how IoT-based EV charging data could be processed and analyzed.  
-Outlined steps for predictive modeling to forecast energy demand and improve station efficiency.  
-Planned **Power BI** dashboard concepts to visualize usage, performance, and sustainability metrics.  
+**Languages:** Python, R, SQL, Stata, MATLAB
+**Libraries & Tools:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Highcharts, Tableau
+**Data Engineering:** ETL Pipelines, SQLite, PostgreSQL, JSON
+**ML & Analytics:** Logistic Regression, Random Forest, EDA, Feature Engineering, Classification Models
+**Other:** Git, GitHub, GitHub Pages, Jupyter Notebooks, VS Code
 
 ---
 
-### [Student Performance Visualization](https://github.com/Dtumuhairwe/student-performance-visualization)  
-Created an interactive **Plotly Dash** app to examine relationships between demographics and academic performance.  
-Used **exploratory data analysis (EDA)** and visualization to surface trends influencing outcomes.  
+## 🚀 Projects
 
----
+### 🏋️ FitWell Health Analytics
+End-to-end health and fitness analytics pipeline built with Python, SQL, and Highcharts.
+- Python ETL pipeline to collect, clean and structure wellness data
+- - SQL schema with 4 tables — users, workouts, wellness logs, nutrition logs
+  - - Interactive Highcharts dashboard deployed live on GitHub Pages
+    - - **[View Live Dashboard](https://dtumuhairwe.github.io/fitwell-health-analytics/dashboard/index.html)** | **[GitHub Repo](https://github.com/Dtumuhairwe/fitwell-health-analytics)**
+     
+      - ### 📉 Netflix User Churn Prediction
+      - Machine learning project to predict which Netflix users are likely to cancel their subscription.
+      - - Exploratory data analysis on 5,000 customer records
+        - - Random Forest model achieving 97.7% accuracy (74.6% after leakage correction)
+          - - Identified engagement behavior as the primary churn driver — not pricing
+            - - **[GitHub Repo](https://github.com/Dtumuhairwe/netflix_user_churn_prediction)**
+             
+              - ---
 
-### [Diabetes Classification Model (Academic)]()  
-Developed a **logistic regression** model to predict diabetes outcomes on an imbalanced dataset.  
-Evaluated model performance using **precision**, **recall**, and **ROC-AUC**, and applied **SMOTE** to address class imbalance.  
+              ## 📊 Current Focus
 
----
+              Expanding skills in data engineering, machine learning, and building production-ready data pipelines.
 
-##  Current Focus  
-Expanding skills in **Google Cloud** and **ethical and responsible AI**, and exploring **NLP** for data-driven insights.  
+              ---
 
----
+              ## 📬 Contact
 
-##  Contact  
-**Email:** doreentumuhairwe143@gmail.com**  
-**LinkedIn:** [linkedin.com/in/dtumuhairwe](https://linkedin.com/in/dtumuhairwe)  
-**GitHub:** [github.com/Dtumuhairwe](https://github.com/Dtumuhairwe)
+              **Email:** doreentumuhairwe143@gmail.com
+              **LinkedIn:** [linkedin.com/in/dtumuhairwe](https://linkedin.com/in/dtumuhairwe)
+              **GitHub:** [github.com/Dtumuhairwe](https://github.com/Dtumuhairwe)
