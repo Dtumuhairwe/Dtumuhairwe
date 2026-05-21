@@ -1,48 +1,42 @@
-# 👋 Hi, I'm Doreen Tumuhairwe
+# Doreen Tumuhairwe
 
-**Graduate Student in Data Science** at the **University of the Pacific (Stockton, CA)**
-Based in **San Leandro, California**
+Data Scientist with an M.S. in Data Science
 
-I build end-to-end data systems — from pipelines and databases to machine learning models and interactive dashboards. My work sits at the intersection of data engineering and analytics.
-
----
-
-## 🛠 Technical Skills
-
-**Languages:** Python, R, SQL, Stata, MATLAB
-**Libraries & Tools:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Highcharts, Tableau
-**Data Engineering:** ETL Pipelines, SQLite, PostgreSQL, JSON
-**ML & Analytics:** Logistic Regression, Random Forest, EDA, Feature Engineering, Classification Models
-**Other:** Git, GitHub, GitHub Pages, Jupyter Notebooks, VS Code
+I work at the intersection of data engineering and analytics: building ETL pipelines, designing schemas, training models, and turning the results into dashboards and write-ups someone can actually use.
 
 ---
 
-## 🚀 Projects
+## Skills
 
-### 🏋️ FitWell Health Analytics
-End-to-end health and fitness analytics pipeline built with Python, SQL, and Highcharts.
-- Python ETL pipeline to collect, clean and structure wellness data
-- - SQL schema with 4 tables — users, workouts, wellness logs, nutrition logs
-  - - Interactive Highcharts dashboard deployed live on GitHub Pages
-    - - **[View Live Dashboard](https://dtumuhairwe.github.io/fitwell-health-analytics/dashboard/index.html)** | **[GitHub Repo](https://github.com/Dtumuhairwe/fitwell-health-analytics)**
-     
-      - ### 📉 Netflix User Churn Prediction
-      - Machine learning project to predict which Netflix users are likely to cancel their subscription.
-      - - Exploratory data analysis on 5,000 customer records
-        - - Random Forest model achieving 97.7% accuracy (74.6% after leakage correction)
-          - - Identified engagement behavior as the primary churn driver — not pricing
-            - - **[GitHub Repo](https://github.com/Dtumuhairwe/netflix_user_churn_prediction)**
-             
-              - ---
+- **Languages:** SQL, Python, R
+- **Analytics & BI:** Tableau, Highcharts, Pandas, NumPy, Matplotlib, Seaborn
+- **Data engineering:** ETL pipelines, PostgreSQL, MySQL, SQLite, JSON, schema design
+- **Machine learning:** Scikit-learn, EDA, feature engineering, logistic regression, random forest
+- **Workflow:** Git, GitHub, GitHub Pages, Jupyter, VS Code
 
-              ## 📊 Current Focus
+---
 
-              Expanding skills in data engineering, machine learning, and building production-ready data pipelines.
+## Projects
 
-              ---
+### HR Analytics SQL Project
+SQL portfolio project on a fictional HR database. Schema design across 6 tables, 25 business queries covering attrition, compensation, flight-risk identification, and manager analysis, plus an Excel dashboard with KPI tiles and charts. Written in MySQL.
 
-              ## 📬 Contact
+[Repo →](https://github.com/Dtumuhairwe/hr-analytics-sql)
 
-              **Email:** doreentumuhairwe143@gmail.com
-              **LinkedIn:** [linkedin.com/in/dtumuhairwe](https://linkedin.com/in/dtumuhairwe)
-              **GitHub:** [github.com/Dtumuhairwe](https://github.com/Dtumuhairwe)
+### FitWell Health Analytics
+End-to-end health and fitness analytics pipeline. Python ETL into a 4-table SQL schema (users, workouts, wellness logs, nutrition logs), then visualized with an interactive Highcharts dashboard deployed live on GitHub Pages.
+
+[Live dashboard →](https://dtumuhairwe.github.io/fitwell-health-analytics/dashboard/index.html) · [Repo →](https://github.com/Dtumuhairwe/fitwell-health-analytics)
+
+### Netflix User Churn Prediction
+Machine learning project to predict subscription cancellations. EDA on 5,000 customer records, random forest model that hit 74.6% accuracy after correcting for data leakage. The model identified engagement behavior — not pricing — as the primary churn driver.
+
+[Repo →](https://github.com/Dtumuhairwe/netflix_user_churn_prediction)
+
+---
+
+
+## Contact
+
+- Email: doreentumuhairwe143@gmail.com
+- LinkedIn: [linkedin.com/in/dtumuhairwe](https://linkedin.com/in/dtumuhairwe)
