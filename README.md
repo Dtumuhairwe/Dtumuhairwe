@@ -1,6 +1,6 @@
 # Doreen Tumuhairwe
 
-Data Scientist with an M.S. in Data Science
+Data Scientist with an M.S. in Data Science,
 I work at the intersection of data engineering and analytics: building ETL pipelines, designing schemas, training models, and turning the results into dashboards and write-ups someone can actually use.
 
 ---
