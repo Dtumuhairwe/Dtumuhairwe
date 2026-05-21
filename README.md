@@ -8,9 +8,10 @@ I work at the intersection of data engineering and analytics: building ETL pipel
 
 ## Skills
 
-- **Languages:** SQL, Python, R
-- **Analytics & BI:** Tableau, Highcharts, Pandas, NumPy, Matplotlib, Seaborn
-- **Data engineering:** ETL pipelines, PostgreSQL, MySQL, SQLite, JSON, schema design
+- **SQL:** Advanced SQL (CTEs, window functions, complex joins, self-joins), MySQL, PostgreSQL, SQLite, schema design with constraints and indexes
+- **Languages:** Python, R
+- **Analytics & BI:** Tableau, Highcharts, Excel KPI dashboards, Pandas, NumPy, Matplotlib, Seaborn
+- **Data engineering:** ETL pipelines, JSON, multi-source integration, data quality and validation
 - **Machine learning:** Scikit-learn, EDA, feature engineering, logistic regression, random forest
 - **Workflow:** Git, GitHub, GitHub Pages, Jupyter, VS Code
 
@@ -34,7 +35,6 @@ Machine learning project to predict subscription cancellations. EDA on 5,000 cus
 [Repo →](https://github.com/Dtumuhairwe/netflix_user_churn_prediction)
 
 ---
-
 
 ## Contact
 
