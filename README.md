@@ -1,14 +1,13 @@
 # Doreen Tumuhairwe
 
 Data Scientist with an M.S. in Data Science
-
 I work at the intersection of data engineering and analytics: building ETL pipelines, designing schemas, training models, and turning the results into dashboards and write-ups someone can actually use.
 
 ---
 
 ## Skills
 
-- **SQL:** Advanced SQL (CTEs, window functions, complex joins, self-joins), MySQL, PostgreSQL, SQLite, schema design with constraints and indexes
+- **SQL:** Advanced SQL (CTEs, window functions, complex joins, self-joins), MySQL, PostgreSQL, SQLite, schema design, constraints, indexing
 - **Languages:** Python, R
 - **Analytics & BI:** Tableau, Highcharts, Excel KPI dashboards, Pandas, NumPy, Matplotlib, Seaborn
 - **Data engineering:** ETL pipelines, JSON, multi-source integration, data quality and validation
