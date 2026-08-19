@@ -7,7 +7,7 @@ Data Scientist with an M.S. in Data Science. I work at the intersection of data 
 ## Skills
 
 - **SQL:** Advanced SQL (CTEs, window functions, complex joins, self-joins), MySQL, PostgreSQL, SQLite, schema design, constraints, indexing
-- **Languages:** Python, R
+- **Languages:** Python, R, PowerBI
 - **Analytics & BI:** Tableau, Highcharts, Excel KPI dashboards, Pandas, NumPy, Matplotlib, Seaborn
 - **Data engineering:** ETL pipelines, JSON, multi-source integration, data quality and validation
 - **Machine learning:** Scikit-learn, EDA, feature engineering, logistic regression, random forest
